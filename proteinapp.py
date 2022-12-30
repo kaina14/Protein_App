@@ -1,5 +1,5 @@
-# This is app is created by Chanin Nantasenamat (Data Professor) https://youtube.com/dataprofessor
-# Credit: This app is inspired by https://huggingface.co/spaces/osanseviero/esmfold
+
+# Credit: This app is inspired by https://huggingface.co/spaces/osanseviero/esmfold and Data professor on YT
 
 import streamlit as st
 from stmol import showmol
