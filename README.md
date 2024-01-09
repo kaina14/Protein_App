@@ -1,4 +1,2 @@
 # Protein_App
-ESM fold, single protein predictor 
-
-Try app: https://proteinesmfold.streamlit.app/
+Meta's ESM fold algorithm for predicting the protein structure based on the input sequence provided by user.
